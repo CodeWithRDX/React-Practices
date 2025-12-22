@@ -1,0 +1,30 @@
+.main{
+    display: flex;
+    gap: 5px;
+    border: 2px solid;
+}
+.Box{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+.timeBox{
+    border: 1px solid;
+    background-color: white;
+    color: black;
+    padding: 10px 5px;
+}
+
+.btn{
+    display: flex;
+    gap:10px;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px;
+}
+
+.button{
+    padding: 10px 15px;
+    background-color: white;
+    color: black;
+}
